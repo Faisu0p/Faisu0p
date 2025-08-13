@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Faisal</h1>
-<h3 align="center">Associate Software programmer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 📫 How to reach me **faisal.khan786hi@gmail.com**
 
