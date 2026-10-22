@@ -10,22 +10,19 @@
 
 </div>
 
-- 📫 How to reach me **faisal.khan786hi@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@faisu0p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@faisu0p" height="30" width="40" /></a>
-<a href="https://twitter.com/@the_faisalkhanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@the_faisalkhanx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faisalkhan786hi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisalkhan786hi" height="30" width="40" /></a>
-<a href="https://instagram.com/faisal.khan0p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal.khan0p" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/faisalkhan786hi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:faisal.khan786hi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" alt="Languages" />
 
 **Frontend &amp; Backend**<br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring&theme=dark" alt="Frameworks" />
