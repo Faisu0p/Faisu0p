@@ -6,7 +6,7 @@
 
 <p>Turning ideas into code, one commit at a time. 🚀</p>
 
-<p>📍 Gurugram, India</p>
+<p>📍 New Delhi, India</p>
 
 </div>
 
