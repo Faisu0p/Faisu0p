@@ -35,11 +35,12 @@
 
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Activity</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faisu0p&show_icons=true&hide_border=false&bg_color=0f2027&title_color=4FD1C5&text_color=c9d1d9&icon_color=4FD1C5&border_color=2c5364&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faisu0p&bg_color=0f2027&color=4FD1C5&line=4FD1C5&point=ffffff&area=true&area_color=2c5364&hide_border=true" alt="Contribution activity graph" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisu0p&layout=compact&langs_count=6&bg_color=0f2027&title_color=4FD1C5&text_color=c9d1d9&border_color=2c5364" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Faisu0p&background=0f2027&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=2c5364&border=2c5364" alt="GitHub streak" />
@@ -57,3 +58,5 @@
 </picture>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2c5364,100:0f2027" alt="" />
