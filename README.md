@@ -35,6 +35,25 @@
 
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisu0p&" alt="faisu0p" /></p>
+<h2 align="center">📊 GitHub Stats</h2>
 
-![snake gif](https://github.com/Faisu0p/Faisu0p/blob/output/github-snake-dark.svg)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faisu0p&show_icons=true&hide_border=false&bg_color=0f2027&title_color=4FD1C5&text_color=c9d1d9&icon_color=4FD1C5&border_color=2c5364&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisu0p&layout=compact&langs_count=6&bg_color=0f2027&title_color=4FD1C5&text_color=c9d1d9&border_color=2c5364" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Faisu0p&background=0f2027&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=2c5364&border=2c5364" alt="GitHub streak" />
+
+</div>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faisu0p/Faisu0p/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faisu0p/Faisu0p/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Faisu0p/Faisu0p/output/github-snake-dark.svg" />
+</picture>
+
+</div>
