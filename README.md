@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mohd Faisal</h1>
-<h3 align="center">Software Developer</h3>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Mohd%20Faisal&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descSize=22&descAlignY=60" alt="Mohd Faisal - Software Engineer" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=640&lines=Software+Engineer;Full-Stack+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript;APIs+%26+Cloud+on+Azure;Security-minded+by+default" alt="Typing animation" /></a>
+
+<p>Turning ideas into code, one commit at a time. 🚀</p>
+
+<p>📍 Gurugram, India</p>
+
+</div>
 
 - 📫 How to reach me **faisal.khan786hi@gmail.com**
-
-- ⚡ Fun fact **The term "bug" in programming came from a literal bug! 🐛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
