@@ -53,6 +53,10 @@
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Faisu0p/Faisu0p/output/github-snake-dark.svg" />
 </picture>
 
+<br/>
+
 </div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2c5364,100:0f2027" alt="" />
